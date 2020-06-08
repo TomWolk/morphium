@@ -298,9 +298,6 @@
 
     </dependencies>
 
-
-    </repositories>
-
     <distributionManagement>
         <snapshotRepository>
             <id>sonatype-nexus-snapshots</id>
